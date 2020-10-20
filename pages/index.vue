@@ -1,29 +1,6 @@
 <template>
   <div class="container">
-    <div>
-      <Logo />
-      <h1 class="title">
-        ma2-nuxt-app
-      </h1>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-      </div>
-    </div>
+    <h1>The answer to question 9</h1>
   </div>
 </template>
 
